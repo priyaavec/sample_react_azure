@@ -1,6 +1,7 @@
 import os
 import uuid
 from dotenv import load_dotenv
+from azure.storage.blob import BlobServiceClient, ContentSettings
 
 load_dotenv()
 
