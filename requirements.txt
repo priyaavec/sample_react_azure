@@ -5,3 +5,4 @@ pyodbc
 python-multipart
 azure-storage-blob
 gunicorn
+python-dotenv
